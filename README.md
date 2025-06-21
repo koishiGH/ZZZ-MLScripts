@@ -7,3 +7,8 @@
 ## Table of Contents
 1. [Main/Required Scripts to be able to do anything](main/)
 2. [Fun Scripts that I made out of boredom](fun/)
+
+
+## Credits
+
+koishii (me!) - Scripts

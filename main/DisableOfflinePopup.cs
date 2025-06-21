@@ -1,10 +1,14 @@
-GameObject gameObject = GameObject.Find("/UIRootProxy/UICanvasTop/AdaptRoot/SafeArea/GeneralTipsDialog(Clone)");
-bool active = gameObject.active;
-if (active)
+GameObject GTDClone = GameObject.Find("/UIRootProxy/UICanvasTop/AdaptRoot/SafeArea/GeneralTipsDialog(Clone)");
+GameObject uiLoading = GameObject.Find("/UIRootProxy/UICanvasTop/AdaptRoot/SafeArea/UILoading(Clone)");
+bool activeGTD = GTDClone.active;
+bool activeLoading = uiLoading.active;
+if (activeGTD && activeLoading)
 {
-	gameObject.SetActive(false);
+	uiLoading.SetActive(false);
+	GTDClone.SetActive(false);
 }
 else
 {
-	gameObject.SetActive(true);
+	uiLoading.SetActive(true);
+	GTDClone.SetActive(true);
 }
