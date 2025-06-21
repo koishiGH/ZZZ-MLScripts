@@ -1,0 +1,1121 @@
+Stage ID's (someone remind me to translate the descriptions later):
+
+
+ID : 10101001
+Description : 【序章MRL1-1】小怪
+
+ID : 10101002
+Description : 【序章MRL1-2】精英
+
+ID : 10101003
+Description : 【序章SRL1-1】小怪
+
+ID : 10101004
+Description : 【序章SRL1-2】精英
+
+ID : 10101005
+Description : 【序章SRL1-3】精英
+
+ID : 10101006
+Description : 【序章SRL1-4】精英
+
+ID : 10101007
+Description : 【序章SRL1-5】BOSS
+
+ID : 10101008
+Description : 【序章SRL2-1】精英
+
+ID : 10101009
+Description : 【序章SRL2-2】精英
+
+ID : 10101010
+Description : 【序章SRL2-3】BOSS
+
+ID : 10101011
+Description : 【序章MRL2-1】小怪
+
+ID : 10101012
+Description : 【序章MRL2-2】小怪
+
+ID : 10101013
+Description : 【序章MRL2-3】小怪
+
+ID : 10101014
+Description : 【序章MRL2-4】BOSS
+
+ID : 10101015
+Description : 【序章MRL3-1】小怪
+
+ID : 10101016
+Description : 【序章MRL3-1】小怪
+
+ID : 10101017
+Description : 【序章MRL3-1】小怪
+
+ID : 10101018
+Description : 【序章MRL3-1】精英遭遇战
+
+ID : 10101019
+Description : 【序章MRL3-1】精英遭遇战
+
+ID : 10101020
+Description : 【序章MRL3-1】精英遭遇战
+
+ID : 10101021
+Description : 【序章MRL3-1】精英遭遇战
+
+ID : 10101022
+Description : 【序章MRL3-1】精英遭遇战
+
+ID : 10101023
+Description : 【序章MRL3-1】层底BOSS
+
+ID : 10101024
+Description : 【序章MRL3-1】层底BOSS
+
+ID : 10101025
+Description : 【序章MRL3-1】关底BOSS
+
+ID : 10101026
+Description : 【序章MRL3-1】箱子教学关-人形
+
+ID : 10101027
+Description : 【序章MRL3-1】箱子教学关-以太
+
+ID : 10102001
+Description : 【第一章MRL1-1】小怪
+
+ID : 10102002
+Description : 【第一章MRL1-2】精英
+
+ID : 10102003
+Description : 【第一章MRL1-3】精英
+
+ID : 10102004
+Description : 【第一章MRL1-4】精英
+
+ID : 10102005
+Description : 【第一章MRL1-5】npc反目
+
+ID : 10102040
+Description : 【第一章MRL1-6】BOSS
+
+ID : 10102006
+Description : 【第一章MRL2-1】小怪
+
+ID : 10102007
+Description : 【第一章MRL2-2】小怪
+
+ID : 10102008
+Description : 【第一章MRL2-3】精英
+
+ID : 10102009
+Description : 【第一章MRL2-4】精英
+
+ID : 10102010
+Description : 【第一章MRL2-5】精英
+
+ID : 10102011
+Description : 【第一章MRL2-6】精英
+
+ID : 10102012
+Description : 【第一章MRL2-7】BOSS
+
+ID : 10102013
+Description : 【第一章MRL3-5】层底精英
+
+ID : 10102014
+Description : 【第一章MRL3-10】boss：公路巨人
+
+ID : 10102015
+Description : 【第一章SRL6-1】小怪(雷雨
+
+ID : 10102016
+Description : 【第一章SRL6-2】精英(雷雨
+
+ID : 10102017
+Description : 【第一章SRL6-3】切层(雷雨
+
+ID : 10102018
+Description : 【第一章SRL6-4】BOSS(雷雨
+
+ID : 10102019
+Description : 【第一章SRL1-1】人形普通
+
+ID : 10102020
+Description : 【第一章SRL1-2】以太普通
+
+ID : 10102021
+Description : 【第一章SRL1-3】人形精英
+
+ID : 10102022
+Description : 【第一章SRL1-4】以太精英
+
+ID : 10102023
+Description : 【第一章SRL4-1】黄金邦布定制关1 逃走
+
+ID : 10102024
+Description : 【第一章SRL4-2】黄金邦布定制关2 击杀
+
+ID : 10102025
+Description : 【第一章SRL4-3】黄金邦布定制关3 逃走复刻
+
+ID : 10102026
+Description : 【第一章特殊SRL军方】小怪关1
+
+ID : 10102027
+Description : 【第一章特殊SRL军方】小怪关2
+
+ID : 10102028
+Description : 【第一章特殊SRL军方】精英关1
+
+ID : 10102029
+Description : 【第一章特殊SRL军方】精英关2
+
+ID : 10102030
+Description : 【第一章特殊SRL军方】精英关3
+
+ID : 10102031
+Description : 【第一章特殊SRL军方】精英关4
+
+ID : 10102032
+Description : 【第一章特殊SRL军方】精英关5
+
+ID : 10102033
+Description : 【第一章特殊SRL军方】BOSS关1 机甲猩猩
+
+ID : 10102034
+Description : 【第一章特殊SRL军方】BOSS关2 近战大机甲+远程大机甲
+
+ID : 10102035
+Description : 【第一章特殊SRL军方】BOSS关3 机甲猩猩+远程大机甲
+
+ID : 10102036
+Description : 【第一章SRL1-1】人形普通
+
+ID : 10102037
+Description : 【第一章SRL1-2】人形精英
+
+ID : 10102038
+Description : 【第一章SRL1-3】人形精英
+
+ID : 10102041
+Description : 【第一章SRL】军方定制死神关
+
+ID : 10101100
+Description : 【CRL】普通：晶化1场：难度1
+
+ID : 10101101
+Description : 【CRL】普通：以太1场：难度1
+
+ID : 10101102
+Description : 【CRL】普通：晶化1场：难度1.5
+
+ID : 10101103
+Description : 【CRL】普通：以太1场：难度1.5
+
+ID : 10101104
+Description : 【CRL】普通：以太1场：难度1
+
+ID : 10101105
+Description : 【CRL】普通：以太1场：难度1.5
+
+ID : 10101106
+Description : 【CRL】普通：晶化占点：难度2
+
+ID : 10101107
+Description : 主线地铁普通2场
+
+ID : 10101108
+Description : 主线地铁精英3场
+
+ID : 10101109
+Description : 主线地铁普通2场
+
+ID : 10101110
+Description : 主线地铁普通占点
+
+ID : 10101111
+Description : 主线地铁普通占点
+
+ID : 10101112
+Description : 主线地铁精英占点
+
+ID : 10101113
+Description : 主线地铁精英2场
+
+ID : 10101114
+Description : 主线地铁普通1场
+
+ID : 10101115
+Description : 主线地铁普通1场
+
+ID : 10101116
+Description : 主线地铁普通2场
+
+ID : 10101117
+Description : 主线地铁精英1场
+
+ID : 10101118
+Description : 主线地铁精英3场
+
+ID : 10101119
+Description : 主线地铁普通1场
+
+ID : 10101120
+Description : 主线地铁精英3场
+
+ID : 10101121
+Description : 主线地铁boss-大机甲
+
+ID : 10101122
+Description : 主线地铁普通1场
+
+ID : 10101123
+Description : 主线地铁普通占点
+
+ID : 10101124
+Description : 主线地铁普通2场
+
+ID : 10101125
+Description : 主线地铁普通2场
+
+ID : 10101126
+Description : 主线地铁精英占点
+
+ID : 10101127
+Description : 主线地铁精英3场
+
+ID : 10101128
+Description : 主线地铁精英占点
+
+ID : 10101129
+Description : 主线地铁boss-机甲猩猩
+
+ID : 10101130
+Description : 主线地铁boss-盾兵
+
+ID : 10101131
+Description : 主线地铁boss-长臂机甲
+
+ID : 10101132
+Description : 主线地铁boss-长臂机甲*投影
+
+ID : 10101133
+Description : 主线地铁boss-精英大机甲
+
+ID : 10101134
+Description : 主线地铁精英2场
+
+ID : 10101135
+Description : 主线地铁精英2场
+
+ID : 10101136
+Description : 主线地铁精英2场
+
+ID : 10101137
+Description : 主线地铁普通1场
+
+ID : 10101138
+Description : 主线地铁普通1场
+
+ID : 10101139
+Description : 主线地铁普通占点
+
+ID : 10101140
+Description : 【CRL】精英：以太2场：难度4.5
+
+ID : 10101141
+Description : 【CRL】精英：晶化2场：难度4.5
+
+ID : 10101142
+Description : 【CRL】精英：以太2场死神蜘蛛：难度5.5
+
+ID : 10101143
+Description : 【CRL】精英：晶化3场：难度5
+
+ID : 10101144
+Description : 【CRL】精英：以太3场：难度5
+
+ID : 10101145
+Description : 【CRL】精英：3场：难度5.5
+
+ID : 10101146
+Description : 【CRL】精英：晶化1场大机甲：难度4.5
+
+ID : 10101147
+Description : 【CRL】精英：以太占点：难度5.5
+
+ID : 10101148
+Description : 【CRL】精英：以太2场：难度4.5
+
+ID : 10101180
+Description : 【CRL】boss：巡兽*2：难度7
+
+ID : 10101181
+Description : 【CRL】boss：投影剑盾：难度8
+
+ID : 10101182
+Description : 【CRL】boss：精英大机甲晶化：难度7.5
+
+ID : 10101183
+Description : 【CRL】boss：死神：难度8
+
+ID : 10101184
+Description : 【CRL】boss：大机甲晶化配小怪：难度7.5
+
+ID : 10101185
+Description : 【CRL】boss：双巨兽+小怪：难度7
+
+ID : 10101186
+Description : 【CRL】boss：巨兽+巡兽*2：难度8
+
+ID : 10101199
+Description : 【娱乐关卡】主线地铁boss-剑盾死神
+
+ID : 10101201
+Description : 【SRL1】【邦布的朋友】普通：以太1场：难度1
+
+ID : 10101202
+Description : 【SRL1】【邦布的朋友】普通：晶化1场：难度1
+
+ID : 10101203
+Description : 【SRL1】【邦布的朋友】普通：晶化1场：难度1.5
+
+ID : 10101204
+Description : 【SRL2】【空洞活性化】普通：以太2场：难度2
+
+ID : 10101205
+Description : 【SRL2】【空洞活性化】精英：以太2场：难度4.5
+
+ID : 10101206
+Description : 【SRL3】【寻人启事】普通：晶化1场：难度1
+
+ID : 10101207
+Description : 【SRL3】【寻人启事】普通：以太1场：难度1.5
+
+ID : 10101208
+Description : 【SRL4】【用户登录验证】普通：晶化1场：难度1
+
+ID : 10101209
+Description : 【SRL4】【用户登录验证】精英：晶化1场：难度4
+
+ID : 10101210
+Description : 【SRL4】【用户登录验证】精英：大机甲晶化1场：难度4.5
+
+ID : 10101211
+Description : 【SRL5】【通缉令】普通：以太1场：难度1.5
+
+ID : 10101212
+Description : 【SRL5】【通缉令】普通：以太爆弹1场：难度1.5
+
+ID : 10101213
+Description : 【SRL5】【通缉令】普通：以太蜘蛛1场：难度2
+
+ID : 10101214
+Description : 【SRL5】【通缉令】精英：晶化3场：难度5
+
+ID : 10101215
+Description : 【SRL5】【通缉令】精英：以太爆弹2场：难度4.5
+
+ID : 10101216
+Description : 【SRL5】【通缉令】精英：以太蜘蛛3场：难度5
+
+ID : 10101217
+Description : 【SRL5】【通缉令】boss：死神：难度8
+
+ID : 10101218
+Description : 【SRL6】【体面的结局】普通：不随机机枪塔1场：难度2.5
+
+ID : 10101219
+Description : 【SRL6】【体面的结局】普通：晶化1场：难度1
+
+ID : 10101220
+Description : 【SRL6】【体面的结局】普通：晶化1场：难度1.5
+
+ID : 10101221
+Description : 【SRL6】【体面的结局】精英：晶化2场：难度4.5
+
+ID : 10101222
+Description : 【SRL6】【体面的结局】精英：晶化2场：难度5
+
+ID : 10301001
+Description : 【地铁常规委托】小怪关1 投影剑1+投影粘液2，投影剑2+投影信号斧2
+
+ID : 10301002
+Description : 【地铁常规委托】小怪关2 投影蜘蛛2+投影剑2，投影蜘蛛2+投影壁垒2
+
+ID : 10301003
+Description : 【地铁常规委托】小怪关3 棍兵1+枪兵2，盾兵1+棍兵2 棍兵3，盾兵2+枪兵2
+
+ID : 10301004
+Description : 【地铁常规委托】小怪关4 投影信号斧2+投影粘液2 投影双斧1+投影粘液2 投影双斧2+投影信号斧2
+
+ID : 10301005
+Description : 【地铁常规委托】小怪关5 投影壁垒2+投影粘液2 投影壁垒1+投影粘液2 投影壁垒2+投影信号斧2
+
+ID : 10301006
+Description : 【地铁常规委托】小怪关6 棍兵*3 棍兵*2+枪兵*2 盾兵1+棍兵2 盾兵2+枪兵2
+
+ID : 10301007
+Description : 【地铁常规委托】小怪关7 两个波次，低级近战，以太剑or以太信号斧随机刷。
+
+ID : 10301008
+Description : 【地铁常规委托】小怪关8 盾兵*1+枪兵*2,盾兵*2+枪兵*2 盾兵棍兵纯随机*3，盾兵棍兵纯随机*3
+
+ID : 10301009
+Description : 【地铁常规委托】小怪关9 以太信号斧*1+以太壁垒*2+以太剑、以太信号斧纯随机*2 以太双斧*1+以太壁垒*2
+
+ID : 10301010
+Description : 【地铁常规委托】小怪关10 盾兵棍兵随机*2+枪兵*2+盾兵棍兵随机*2 盾兵棍兵随机*3+盾兵棍兵随机*2
+
+ID : 10301011
+Description : 【地铁常规委托】小怪关11
+
+ID : 10301012
+Description : 【地铁常规委托】小怪关12 投影剑*2+投影粘液*2，投影信号斧*1+自爆4
+
+ID : 10301013
+Description : 【地铁常规委托】小怪关13 投影壁垒*1+自爆*4+投影粘液*2 第1波投影信号斧*2+投影粘液*2 第2波投影壁垒*2 +投影剑*2
+
+ID : 10301014
+Description : 【地铁常规委托】小怪关14   信号斧*2+投影粘液*2，投影壁垒*2+自爆*2*2+投影粘液*2
+
+ID : 10301015
+Description : 【地铁常规委托】小怪关15 盾兵棍兵随机*2+枪兵*2+盾兵棍兵随机*2 盾兵棍兵随机*3+盾兵棍兵随机*2
+
+ID : 10301016
+Description : 【地铁常规委托】小怪关16 投影壁垒*1
+
+ID : 10301017
+Description : 【地铁常规委托】小怪关17   信号斧*2
+
+ID : 10301018
+Description : 【地铁常规委托】小怪关18 盾兵棍兵随机
+
+ID : 10301101
+Description : 【地铁常规委托】精英关1 A：枪兵*2+棍兵*1 B：长臂*1+枪兵*2 棍兵*2C：枪兵*2+棍兵*1 长臂*1
+
+ID : 10301102
+Description : 【地铁常规委托】精英关2 A：盾兵棍兵随机*3 长臂*1 B：长臂*1 盾兵棍兵随机*2
+
+ID : 10301103
+Description : 【地铁常规委托】精英关3 长臂*2 盾兵棍兵随机*2
+
+ID : 10301104
+Description : 【地铁常规委托】精英关4 B：盾兵*2+枪兵*1 A：长臂*1+棍兵*2 长臂削减血量后再刷长臂*1
+
+ID : 10301105
+Description : 【地铁常规委托】精英关5 B：以太魔花*1+以太剑*2 A：以太魔花*1+信号斧*2 以太巨兽*1
+
+ID : 10301106
+Description : 【地铁常规委托】精英关6 以太巨兽*1+以太魔花*1 以太剑*2.
+
+ID : 10301107
+Description : 【地铁常规委托】精英关7 E：巨兽*1+以太粘液*2  D：巨兽*1 魔花*1
+
+ID : 10301108
+Description : 【地铁常规委托】精英关8 A：盾兵*2 精英棍兵*1 B：精英棍兵*2+长臂*1
+
+ID : 10301109
+Description : 【地铁常规委托】精英关9 枪兵*2,精英棍兵*1 棍兵*2 长臂*1，精英棍兵*2
+
+ID : 10301110
+Description : 【地铁常规委托】精英关10 C：精英枪兵*1+棍兵*2 D：棍兵*2 长臂*1+精英枪兵*1
+
+ID : 10301111
+Description : 【地铁常规委托】精英关11 A：精英枪兵*1+盾兵*2 B：精英枪兵*2 长臂*1
+
+ID : 10301112
+Description : 【地铁常规委托】精英关12 信号斧2+粘液2，巨兽1+粘液2，50%血量补粘液2
+
+ID : 10301113
+Description : 【地铁常规委托】精英关13 投影剑3，信号斧2+投影剑2，巨兽1+投影剑2，50%血量补投影剑2
+
+ID : 10301114
+Description : 【地铁常规委托】精英关14 巨兽*2
+
+ID : 10301115
+Description : 【地铁常规委托】精英关15 信号斧或剑随机*3，巨兽*2
+
+ID : 10301116
+Description : 【地铁常规委托】精英关16 壁垒*2+粘液*2，巨兽*2
+
+ID : 10301117
+Description : 【地铁常规委托】精英关17 蜘蛛*3，蜘蛛2+粘液2，魔花2
+
+ID : 10301118
+Description : 【地铁常规委托】精英关18 剑信号斧*3，剑信号斧2+粘液2，魔花2
+
+ID : 10301119
+Description : 【地铁常规委托】精英关19 剑2+粘液2，精英双斧+魔花
+
+ID : 10301120
+Description : 【地铁常规委托】精英关20 双斧1+剑2，双斧1+粘液2，精英双斧+魔花
+
+ID : 10301121
+Description : 【地铁常规委托】精英关21 A投影壁垒*2+粘液*2 投影路牌双斧*1+粘液*2 75血量 粘液*2 50血量壁垒*2
+
+ID : 10301122
+Description : 【地铁常规委托】精英关22 B信号斧*2 以太剑*3+以太粘液*2 C投影路牌双斧+自爆*2*2 50血量粘液*2
+
+ID : 10301123
+Description : 【地铁常规委托】精英关23
+
+ID : 10301124
+Description : 【地铁常规委托】精英关24 A以太双斧*1+以太粘液*2+1 B信号斧*2+自爆*2 wait4s +自爆*2  以太魔花*1+以太双斧*2
+
+ID : 10301125
+Description : 【地铁常规委托】精英关25 A以太剑*2+以太粘液*2，以太剑*3 B以太魔花+2信号斧+2壁垒打晕后 +2双斧
+
+ID : 10301126
+Description : 【地铁常规委托】精英关26
+
+ID : 10301127
+Description : 【地铁常规委托】精英关27 投影路牌双斧*2
+
+ID : 10301128
+Description : 【地铁常规委托】精英关28 A以太信号斧*2+以太粘液*2 ，B信号双斧*1+粘液*2 血量一定时 自爆*2 信号斧*1
+
+ID : 10301129
+Description : 【地铁常规委托】精英关29 壁垒*2+自爆*2*2*2，第二波投影路牌双斧*2
+
+ID : 10301130
+Description : 【地铁常规委托】精英关30 投影巨兽+投影路牌双斧
+
+ID : 10301131
+Description : 【地铁常规委托】精英关31 A区信号斧or剑*4+粘液*2 B区投影巨兽*1+信号斧or剑*2晕值满刷投影路牌双斧+自爆*2
+
+ID : 10301132
+Description : 【地铁常规委托】精英关32 E点 精英盾兵*2+枪兵*4，D点长臂机甲*1 棍兵*2 血量0.6时刷精英盾兵*2
+
+ID : 10301133
+Description : 【地铁常规委托】精英关33 B点棍兵*3 +* 2，C点盾兵*2+枪兵*2 空场，长臂机甲*1+盾兵*2 血量0.6时刷精英盾兵*2
+
+ID : 10301134
+Description : 【地铁常规委托】精英关34 哈提相关
+
+ID : 10301135
+Description : 【地铁常规委托】精英关35 哈提相关
+
+ID : 10301136
+Description : 【地铁常规委托】精英关36 哈提相关
+
+ID : 10301137
+Description : 【地铁常规委托】精英关37 哈提相关
+
+ID : 10301138
+Description : 【地铁常规委托】精英关38 哈提相关
+
+ID : 10301139
+Description : 【地铁常规委托】精英关39 哈提相关
+
+ID : 10301140
+Description : 【地铁常规委托】精英关40 哈提相关
+
+ID : 10301141
+Description : 【地铁常规委托】精英关41 哈提相关
+
+ID : 10301142
+Description : 【地铁常规委托】精英关42 升阶投影巨兽+小怪
+
+ID : 10301143
+Description : 【地铁常规委托】精英关43 升阶投影巨兽+魔花
+
+ID : 10301144
+Description : 【地铁常规委托】精英关44 升阶投影巨兽+双斧路牌
+
+ID : 10301145
+Description : 【地铁常规委托】精英关45 升阶路牌双斧+魔花
+
+ID : 10301146
+Description : 【地铁常规委托】精英关46 升阶哈提+小怪
+
+ID : 10301147
+Description : 【地铁常规委托】精英关47 升阶哈提+魔花
+
+ID : 10301148
+Description : 【地铁常规委托】精英关48 大机甲+小怪
+
+ID : 10301149
+Description : 【地铁常规委托】精英关49 大机甲+小怪
+
+ID : 10301201
+Description : 【地铁常规委托】投影剑盾+小怪
+
+ID : 10301202
+Description : 【地铁常规委托】投影剑盾+小怪
+
+ID : 10301203
+Description : 【地铁常规委托】投影剑盾+魔花
+
+ID : 10301204
+Description : 【地铁常规委托】投影剑盾+魔花
+
+ID : 10301205
+Description : 【地铁常规委托】死路巨人P1+小怪
+
+ID : 10301206
+Description : 【地铁常规委托】死路巨人P1+小怪
+
+ID : 10301207
+Description : 【地铁常规委托】剑盾+死神
+
+ID : 10301208
+Description : 【地铁常规委托】剑盾+死神
+
+ID : 10301209
+Description : 【地铁常规委托】死路巨人boss+小怪
+
+ID : 10301210
+Description : 【地铁常规委托】死路巨人boss+小怪
+
+ID : 10301211
+Description : 【地铁常规委托】投影剑盾（boss）+小怪
+
+ID : 10301212
+Description : 【地铁常规委托】死路巨人（boss）+哈提
+
+ID : 10301213
+Description : 【地铁常规委托】死路巨人（boss）+哈提
+
+ID : 10301214
+Description : 【地铁常规委托】剑盾boss+魔花
+
+ID : 10301215
+Description : 【地铁常规委托】剑盾+小怪
+
+ID : 10301216
+Description : 【地铁常规委托】剑盾+小怪
+
+ID : 10301217
+Description : 【地铁常规委托】死路巨人p1+死神
+
+ID : 10301218
+Description : 【地铁常规委托】死路巨人p1+死神
+
+ID : 10301219
+Description : 【地铁常规委托】死路巨人p1+死神
+
+ID : 10301220
+Description : 【地铁常规委托】死神+小怪
+
+ID : 10301221
+Description : 【地铁常规委托】死神+小怪
+
+ID : 10301222
+Description : 【地铁常规委托】死神+小怪
+
+ID : 10301223
+Description : 【地铁常规委托】死路巨人p1+小怪
+
+ID : 10301224
+Description : 【地铁常规委托】死路巨人p1+小怪
+
+ID : 10301225
+Description : 【地铁常规委托】剑盾boss+哈提
+
+ID : 10301226
+Description : 【地铁常规委托】剑盾boss+哈提
+
+ID : 10301227
+Description : 【地铁常规委托】死路巨人（boss）+魔花
+
+ID : 10301228
+Description : 【地铁常规委托】死路巨人（boss）+魔花
+
+ID : 10301229
+Description : 【地铁常规委托】剑盾+哈提
+
+ID : 10301230
+Description : 【地铁常规委托】剑盾+哈提
+
+ID : 10301231
+Description : 【地铁常规委托】死神+哈提
+
+ID : 10301232
+Description : 【地铁常规委托】死神+哈提
+
+ID : 10301233
+Description : 【地铁常规委托】升阶死神+小怪
+
+ID : 10301234
+Description : 【地铁常规委托】升阶死神+魔花
+
+ID : 10301235
+Description : 【地铁常规委托】升阶大机甲+小怪
+
+ID : 10301236
+Description : 【地铁常规委托】升阶大机甲+升阶长臂
+
+ID : 10301237
+Description : 【地铁常规委托】近战大机甲+远程大机甲
+
+ID : 10301238
+Description : 【地铁常规委托】近战大机甲+远程大机甲
+
+ID : 10301239
+Description : 【地铁常规委托】猩猩机甲+小怪
+
+ID : 10301240
+Description : 【地铁常规委托】猩猩机甲+小怪 잡몹 + 기갑1
+
+ID : 10301241
+Description : 【地铁常规委托】升阶大机甲+猩猩机甲 기갑1+기갑2 강추
+
+ID : 10301301
+Description : 【地铁常规委托】占点1 100% 채우기
+
+ID : 10301302
+Description : 【地铁常规委托】占点2 100% 채우기
+
+ID : 10301303
+Description : 【地铁常规委托】占点3 100% 채우기
+
+ID : 10301304
+Description : 【地铁常规委托】占点4 100% 채우기
+
+ID : 10301305, 100% 채우기
+Description : 【地铁常规委托】占点5
+
+ID : 10301311
+Description : 【地铁常规委托】黄金邦布1 골든뱅부잡기
+
+ID : 10301312
+Description : 【地铁常规委托】黄金邦布2 골든뱅부잡기
+
+ID : 10301313
+Description : 【地铁常规委托】黄金邦布3 골든뱅부잡기
+
+ID : 10301314
+Description : 【地铁常规委托】黄金邦布4 골든뱅부잡기
+
+ID : 10301315
+Description : 【地铁常规委托】黄金邦布5 골든뱅부잡기
+
+ID : 10301321
+Description : 【地铁常规委托】挑战关1 현상금
+
+ID : 10301322
+Description : 【地铁常规委托】挑战关2현상금
+
+ID : 10301323
+Description : 【地铁常规委托】挑战关3현상금
+
+ID : 10301324
+Description : 【地铁常规委托】挑战关4현상금
+
+ID : 10301325
+Description : 【地铁常规委托】挑战关5현상금
+
+ID : 10301326
+Description : 【地铁常规委托】挑战关6현상금
+
+ID : 10301327
+Description : 【地铁常规委托】挑战关7현상금
+
+ID : 10301328
+Description : 【地铁常规委托】挑战关8현상금
+
+ID : 10301329
+Description : 【地铁常规委托】挑战关9현상금
+
+ID : 10301330
+Description : 【地铁常规委托】挑战关10현상금
+
+ID : 10301331
+Description : 【地铁常规委托】箱子奖励关1 상자부수기1
+
+ID : 10301332
+Description : 【地铁常规委托】箱子奖励关2
+
+ID : 10301333
+Description : 【地铁常规委托】箱子奖励关3
+
+ID : 10301334
+Description : 【地铁常规委托】箱子奖励关4
+
+ID : 10301335
+Description : 【地铁常规委托】箱子奖励关5
+
+ID : 10302001
+Description : 【工地常规委托】小怪关1 投影双斧1+投影粘液2，投影双斧2+投影信号斧2
+
+ID : 10302002
+Description : 【工地常规委托】小怪关2 投影粘液*3，投影蜘蛛*3 投影蜘蛛2+投影粘液2 投影蜘蛛2+投影壁垒2
+
+ID : 10302003
+Description : 【工地常规委托】小怪关3 以太剑*3+以太双斧*1 双斧*2+以太剑*2
+
+ID : 10302004
+Description : 【工地常规委托】小怪关4 棍盾随机*3 枪兵+棍盾随机
+
+ID : 10302005
+Description : 【工地常规委托】小怪关5 以太剑*2+以太壁垒*2+以太剑*2 以太壁垒*2+以太粘液*2+以太壁垒*2
+
+ID : 10302006
+Description : 【工地常规委托】小怪关6
+
+ID : 10302007
+Description : 【工地常规委托】小怪关7
+
+ID : 10302008
+Description : 【工地常规委托】小怪关8
+
+ID : 10302101
+Description : 【工地常规委托】长臂*1+枪兵*2  棍盾随机*3+长臂*1+枪兵*2
+
+ID : 10302102
+Description : 【工地常规委托】精英关2 长臂*2,枪兵*4
+
+ID : 10302103
+Description : 【工地常规委托】精英关3
+
+ID : 10302104
+Description : 【工地常规委托】精英关4 A：盾兵*2 精英枪兵*1+盾兵*2 B：长臂*1+精英枪兵*2
+
+ID : 10302105
+Description : 【工地常规委托】精英关5 双斧1+剑2，双斧2+粘液2，巨兽+粘液2，50%血补粘液2
+
+ID : 10302106
+Description : 【工地常规委托】精英关6 双斧1+粘液2，壁垒2+粘液2，魔花2
+
+ID : 10302107
+Description : 【工地常规委托】精英关7 壁垒2+粘液2，精英双斧+魔花
+
+ID : 10302108
+Description : 【工地常规委托】精英关8 A区信号斧or剑*2+自爆*2*2 ，B区投影巨兽*1+2投影粘液 巨兽晕值满刷投影路牌双斧+2信号斧or剑
+
+ID : 10302109
+Description : 【工地常规委托】精英关9 A点精英盾兵*2 棍兵*2*2， 长臂机甲*1+盾兵*2  血量0.6时刷精英盾兵*2
+
+ID : 10302110
+Description : 【工地常规委托】精英关10 哈提相关
+
+ID : 10302111
+Description : 【工地常规委托】精英关11 哈提相关
+
+ID : 10302112
+Description : 【工地常规委托】精英关12 哈提相关
+
+ID : 10302113
+Description : 【工地常规委托】精英关13 哈提相关
+
+ID : 10302114
+Description : 【工地常规委托】精英关14 哈提相关
+
+ID : 10302115
+Description : 【工地常规委托】精英关15 哈提相关
+
+ID : 10302201
+Description : 【工地常规委托】BOSS关1
+
+ID : 10302202
+Description : 【工地常规委托】BOSS关2
+
+ID : 10302203
+Description : 【工地常规委托】BOSS关3
+
+ID : 10302204
+Description : 【工地常规委托】BOSS关4
+
+ID : 10302205
+Description : 【工地常规委托】BOSS关5
+
+ID : 10302206
+Description : 【工地常规委托】BOSS关6
+
+ID : 10302207
+Description : 【工地常规委托】BOSS关7
+
+ID : 10302208
+Description : 【工地常规委托】BOSS关8
+
+ID : 10302209
+Description : 【工地常规委托】BOSS关9
+
+ID : 10302210
+Description : 【工地常规委托】BOSS关10
+
+ID : 10102101
+Description : 主线天台普通1场
+
+ID : 10102102
+Description : 主线天台普通1场
+
+ID : 10102103
+Description : 主线天台精英2场
+
+ID : 10102104
+Description : 主线天台精英2场-激光塔
+
+ID : 10102105
+Description : 主线天台精英3场-机枪塔
+
+ID : 10102106
+Description : 【暂时不用】主线天台特殊玩法-限时消灭敌人
+
+ID : 10102107
+Description : 主线天台特殊玩法-找寻3个军用物资后破坏机关塔
+
+ID : 10102108
+Description : 主线天台boss-精英大机甲
+
+ID : 10102109
+Description : 主线天台boss-机甲猩猩
+
+ID : 10102110
+Description : 主线天台精英3场-占领3个装置
+
+ID : 10102111
+Description : 棋盘特殊关-和时光一起battle
+
+ID : 10201101
+Description : 【序章ACT-1】基础战斗教学
+
+ID : 10201102
+Description : 【序章ACT-2】QTE换人教学
+
+ID : 10201103
+Description : 【序章ACT-3】剑盾Boss
+
+ID : 10201104
+Description : 【序章ACT-4】流程关卡2
+
+ID : 10201105
+Description : 【序章ACT-5】流程关卡3
+
+ID : 10201106
+Description : 【序章ACT-3】非首次
+
+ID : 10202101
+Description : 【一章ACT-1】
+
+ID : 10202102
+Description : 【一章ACT-2】
+
+ID : 10202103
+Description : 【一章ACT-3】
+
+ID : 10202104
+Description : 【一章ACT-4】
+
+ID : 10202105
+Description : 【一章ACT-5】
+
+ID : 10202106
+Description : 【一章ACT-6】
+
+ID : 10202107
+Description : 【一章ACT-7】
+
+ID : 10202108
+Description : 【一章ACT-8】
+
+ID : 10202109
+Description : 【一章ACT-9】
+
+ID : 10202110
+Description : 【一章ACT-10】
+
+ID : 10202999
+Description : 【小型棋盘最终关】
+
+ID : 19900000
+Description : 【策划】主城测试
+
+ID : 19900002
+Description : 【策划】战斗测试-地形
+
+ID : 19900003
+Description : 【策划】战斗测试-区域
+
+ID : 19900004
+Description : 【美术】战斗测试
+
+ID : 19900005
+Description : 【美术】角色测试
+
+ID : 19900006
+Description : 【美术】特效测试
+
+ID : 19900008
+Description : 主线地铁boss-机甲猩猩（接收空洞事件Nerf）
+
+ID : 19900009
+Description : 【暂时不用】主线地铁boss-双大机甲试验
+
+ID : 19900010
+Description : 【娱乐关卡】主线地铁boss-剑盾死神
+
+ID : 19900011
+Description : 关卡测试-怪物AI读写和替换
+
+ID : 19900021
+Description : 【程序】关卡演出测试
+
+ID : 19900023
+Description : AllMonster检测BUG测试
+
+ID : 19900025
+Description : 金币怪测试
+
+ID : 19900026
+Description : 关卡脚本AI交互测试
+
+ID : 19900027
+Description : 逃跑关测试
+
+ID : 19900028
+Description : 巡逻关测试
+
+ID : 19900029
+Description : 限时挑战关卡测试
+
+ID : 19900030
+Description : 陷阱 地铁测试
+
+ID : 19900031
+Description : 陷阱 工地测试
+
+ID : 19900032
+Description : 性能测试关卡
+
+ID : 19900033
+Description : boss rush关卡 不切section
+
+ID : 19900034
+Description : boss rush关卡 切section
+
+ID : 19900035
+Description : 关卡测试临时新增测试关
+
+ID : 19900036
+Description : 关卡测试 追逐关卡测试
+
+ID : 19900037
+Description : 关卡测试 占领玩法迭代状态
+
+ID : 19900038
+Description : 关卡测试 金币跑酷
+
+ID : 19900039
+Description : 关卡测试 找出隐藏邦布
+
+ID : 19900040
+Description : 关卡测试 追逐关卡测试Metro 3 3
+
+ID : 19900041
+Description : SectionSwitch测试
+
+ID : 19900042
+Description : 关卡测试 相扑模式测试关
+
+ID : 19900043
+Description : 关卡测试 生存模式 远程 测试关
+
+ID : 19900044
+Description : 关卡测试 生存模式 近战 测试关
+
+ID : 19999999
+Description : 关卡常用节点记录

@@ -12,3 +12,5 @@
 ## Credits
 
 koishii (me!) - Scripts
+
+Abisso-Soffice - Sent me some VERY useful info :D (charID's, stageID's, and a translated guide)

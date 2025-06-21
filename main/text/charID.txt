@@ -1,0 +1,15 @@
+Character IDs:
+
+Anby: 1011
+Nekomata: 1021
+Nicole: 1031
+Soldier 11: 1041
+Corin: 1061
+Billy: 1081
+Miyabi: 1091
+Koleda: 1101
+Anton: 1111
+Ben: 1121
+Soukaku: 1131
+Lycaon: 1141
+Ellen: 1191
